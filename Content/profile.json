@@ -1,57 +1,81 @@
 {
-"About": {
-  "Name": "Carl Luidee P Lim",
-  "Currently": "Computer Science Student",
-  "Headshot": "student-portrait.png",
-  "Thumbnail": "student-logo.webp",
-  "AboutText": "I am a senior student at Seattle Pacific University, pursuing a degree in Computer Science.<br><br>Growing up in a poor neighborhood in the Philippines, I faced hardships that sparked a passion for technology and programming. I am excited to deepen my knowledge and skills in these dynamic fields. I found joy and inspiration in building DIY projects and bringing ideas to life. I’m driven to use that passion to inspire and create opportunities for underserved communities.<br><br>In addition to my coursework, I am currently a member of SPU's Ctrl+Bot Club, where I collaborate with other prospective engineers who share my enthusiasm for innovation and problem-solving.<br><br>For my academic pursuits, I have diverse interests in music, game design, and artificial intelligence. I am particularly interested in the tech industry and actively seeking internships to gain valuable experience."
-},
-"Contact": {
-  "EMail": "limc1@spu.edu",
-  "Phone": "(253) 205-6966",
-  "Portfolio": "https://carlluidee03.github.io/carlluidee03portfolio.github.io/index.html",
-  "LinkedIn": "https://www.linkedin.com/in/carlluideelim/",
-  "GitHub": "https://github.com/CarlLuidee03"
-},
-"Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
-  "School": "Seattle Pacific University",
-  "Major": "Computer Science",
-  "Graduation": "June 2027",
-  "EducationText": "Use this to add some narrative to your education section",
-  "Employment": "None",
-  "Role": "None",
-  "EmploymentText": "Currently looking for internships.",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML", " Data Structures", " Algorithms", " OOP"],
-  "SkillsText": "Use this to add some narrative to your skills section",
-  "Resume": "student-resume.pdf"  
-},
-"Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
-  },
-  "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
-  },
-  "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
-    "GitHubRepo": "",
-    "MainImage": "P3Main.png",
-    "DetailImages": []
-  },
-  "Project4": {
-    "Title": "",
-    "Desc": "",
-    "GitHubRepo": "",
-    "MainImage": "",
-    "DetailImages": []
-  }
+	"About": {
+		"Name": "Carl Luidee P Lim",
+		"Currently": "Computer Science Student",
+		"Headshot": "student-portrait.png",
+		"Thumbnail": "student-logo.webp",
+		"AboutText": "I am a senior student at Seattle Pacific University, pursuing a degree in Computer Science.<br><br>Growing up in a poor neighborhood in the Philippines, I faced hardships that sparked a passion for technology and programming. I am excited to deepen my knowledge and skills in these dynamic fields. I found joy and inspiration in building DIY projects and bringing ideas to life. I’m driven to use that passion to inspire and create opportunities for underserved communities.<br><br>In addition to my coursework, I am currently a member of SPU's Ctrl+Bot Club, where I collaborate with other prospective engineers who share my enthusiasm for innovation and problem-solving.<br><br>For my academic pursuits, I have diverse interests in music, game design, and artificial intelligence. I am particularly interested in the tech industry and actively seeking internships to gain valuable experience."
+	},
+	"Contact": {
+		"EMail": "limc1@spu.edu",
+		"Phone": "(253) 205-6966",
+		"Portfolio": "https://carlluidee03.github.io/carlluidee03portfolio.github.io/index.html",
+		"LinkedIn": "https://www.linkedin.com/in/carlluideelim/",
+		"GitHub": "https://github.com/CarlLuidee03"
+	},
+	"Experience": {
+		"ExperienceText": "Detail-oriented and driven individual with a strong background in C++ and Python programming. Searching for an internship to further my skills and experience. My dedication lies in leveraging my technical expertise to innovate software development and engineering solutions. As a creative problem solver, I can swiftly adjust to evolving situations and maximize every opportunity that comes my way.",
+		"School": "Seattle Pacific University",
+		"Major": "Computer Science",
+		"Graduation": "June 2027",
+		"EducationText": "Currently pursuing a Bachelor of Science degree for Computer Science | 3.51 GPA | Active member of the Ctrl+Bot Club",
+		"Employment": "None",
+		"Role": "None",
+		"EmploymentText": "Currently looking for internships.",
+		"Skills": [
+			"C++",
+			" Python",
+			" JavaScript",
+			" Node",
+			" CSS",
+			" HTML",
+			" GitHub",
+			" VS Code",
+			" Data Structures",
+			" Algorithms",
+			" OOP"
+		],
+		"SkillsText": "• Thrives in team-based and mission-driven organizations<br>• Proficient in troubleshooting and debugging<br>• Committed to writing clean and maintainable code<br>• Strong problem-solving and analytical skills<br>• Adaptable to changing development environments<br>• Motivated and self-driven ",
+		"Resume": "student-resume.pdf"
+	},
+	"Project1": {
+		"Title": "Recipe Manager and Archive App",
+		"Desc": "Application that allows users to manage recipes in an efficent and streamlined manner.",
+		"GitHubRepo": "https://github.com/CarlLuidee03/SPU_CSC3220_W26_Team_Cyan",
+		"MainImage": "P1Main.png",
+		"DetailImages": [
+			"P1Detail1.png",
+			"P1Detail2.png",
+			"P1Detail3.png"
+		]
+	},
+	"Project2": {
+		"Title": "A Game",
+		"Desc": "A simple turn-based game made using HTML.",
+		"GitHubRepo": "https://github.com/CarlLuidee03/carlluidee03.github.io",
+		"MainImage": "P2Main.png",
+		"DetailImages": [
+			"P2Detail1.png",
+			"P2Detail2.png",
+			"P2Detail3.png",
+			"P2Detail4.png"
+		]
+	},
+	"Project3": {
+		"Title": "Carl's Website",
+		"Desc": "A website made by Carls for Carls.",
+		"GitHubRepo": "https://github.com/CarlLuidee03/carlluidee03.github.io",
+		"MainImage": "P3Main.png",
+		"DetailImages": [
+			"P3Detail1.png",
+			"P3Detail2.png"
+		]
+	},
+	"Project4": {
+		"Title": "",
+		"Desc": "",
+		"GitHubRepo": "",
+		"MainImage": "",
+		"DetailImages": []
+	}
 }
